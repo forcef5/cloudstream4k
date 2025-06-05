@@ -1,0 +1,17 @@
+{
+  "name": "Kho Phim Thư Viện HD (JSON)",
+  "description": "Repository chứa tiện ích mở rộng để truy cập kho phim lẻ từ Thư Viện HD (JSON).",
+  "plugins": [
+    {
+      "name": "Thư Viện HD Phim Lẻ", // Phải khớp với 'name' trong file .csx
+      "internalName": "ThuVienHDPhimLeJSON", // Tên nội bộ, duy nhất, không dấu, không cách
+      "version": "1.2", // Nên khớp với 'version' trong file .csx
+      "description": "Duyệt phim lẻ từ Thư Viện HD (JSON).", // Khớp với 'description' trong .csx
+      "authors": ["Tên Của Bạn"], // Thay bằng tên của bạn
+      "type": "movie", // Khớp với 'type' trong .csx
+      "fileUrl": "URL_DEN_FILE_CSX_CUA_BAN", // RẤT QUAN TRỌNG: URL đến file .csx của bạn (ví dụ: https://your-domain.com/thuvienhd_extension.csx)
+      "iconUrl": "URL_DEN_ICON_REPO_CUA_BAN", // (Tùy chọn) URL đến icon cho repository (ví dụ: https://your-domain.com/repo_icon.png)
+      "scriptType": "JS" // Đánh dấu đây là plugin JavaScript
+    }
+  ]
+}
