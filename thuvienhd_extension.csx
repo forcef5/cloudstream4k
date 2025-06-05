@@ -3,7 +3,7 @@
 // name = Thư Viện HD Phim Lẻ
 // type = movie
 // version = 1.2 // Cập nhật phiên bản nếu có thay đổi trong tương lai
-// logo = URL_DEN_LOGO_PLUGIN_CUA_BAN (Tùy chọn, ví dụ: https://your-domain.com/thuvienhd_logo.png)
+// logo = https://github.com/forcef5/cloudstream4k/blob/main/logo.png?raw=true (Tùy chọn, ví dụ: https://your-domain.com/thuvienhd_logo.png)
 // description = Duyệt phim lẻ từ Thư Viện HD (JSON).
 
 // --- URL đến file JSON chứa dữ liệu phim của bạn ---
